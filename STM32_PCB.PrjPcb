@@ -67,6 +67,23 @@ GenerateClassCluster=0
 DocumentUniqueId=HHXXMLNO
 
 [Document2]
+DocumentPath=..\AltiumDesigner-Libraries\Schematic-Lib-PhilsLab.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NDNXAREH
+
+[Document3]
 DocumentPath=..\AltiumDesigner-Libraries\Footprint-Lib-PhilsLab.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
