@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MCU_LED_A Pin=D2-K
+Removed Pin From Net: NetName=MCU_LED_A Pin=R4-1
+Added Pin To Net: NetName=MCU_LED_K Pin=D2-K
+Added Pin To Net: NetName=MCU_LED_K Pin=R4-1
+Added Net: Name=MCU_LED_K
