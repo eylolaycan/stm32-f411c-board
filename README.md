@@ -53,4 +53,5 @@ STM32CubeIDE: for firmware development
 
 # Gallery
 ![Top 3D](/pcb_board.png) 
+![PCB](/pcb.png) 
 ![Schematic](/schematic.png)
